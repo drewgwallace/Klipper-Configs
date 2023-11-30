@@ -1,4 +1,3 @@
-# https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Firmware/stealthburner_leds.cfg
 # Macros for setting the status leds on the Voron StealthBurner toolhead (or for any neopixel-type leds).
 #
 # You will need to configure a neopixel (or other addressable led, such as dotstar). See
@@ -54,7 +53,7 @@
 
 
 [neopixel sb_leds]
-pin: PD3
+pin: 'enter_your_led_data_pin_name'
 #   The pin connected to the neopixel. This parameter must be provided.
 chain_count: 3
 #   The number of Neopixel chips that are "daisy chained" to the
