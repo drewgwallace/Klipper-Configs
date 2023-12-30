@@ -6,11 +6,12 @@ NOTE: This is a working config! The printer.cfg templates contain printer-specif
 
 This repository is left public for other's reference. I hope it may help some. 
 
-# References
+# Notable References
 https://github.com/dz0ny/klipper-prusa-mk3s
 https://github.com/FYSETC/FYSETC-Voron-2
 https://github.com/jontek2/A-better-print_start-macro
 https://github.com/dudeofawesome/klipper-config/tree/master/macros
+https://github.com/Lzhikai/SIBOOR-Voron-0.2/blob/main/printer.cfg
 
 ## Future?
 https://github.com/jschuh/klipper-macros.git
