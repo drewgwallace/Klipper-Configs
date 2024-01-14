@@ -16,8 +16,8 @@ Many articles describe flashing the board with Klipper and finding the command:
 
 No longer reports correctly. I found errors for enumerating that USB device in my dmesg.
 
-I was able to fix this by flashing a Raspberry Pi 3 with Raspberry PI OS Buster, I used this image:
-https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2020-08-24/
-I then installed kiauh (to then install klipper), and this missing dependency libwxgtk3.0-dev .
-https://github.com/dw-0/kiauh
-Using this installation of Klipper the board flashes correctly. I am then able to connect from the regular controller.
+I was able to fix this by flashing a Raspberry Pi 3 with Raspberry PI OS Buster, I used this image:<br>
+https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2020-08-24/<br>
+I then installed kiauh (to then install klipper), and this missing dependency libwxgtk3.0-dev .<br>
+https://github.com/dw-0/kiauh<br>
+Using this installation of Klipper the board flashes correctly. I am then able to connect from the regular controller.<br>
