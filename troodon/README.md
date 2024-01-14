@@ -10,14 +10,14 @@ There are a few articles that describe the "How".<br>
         Use USB for communication.
 
 # Troubleshooting
-Many articles describe flashing the board with Klipper and finding the command:
+Many articles describe flashing the board with Klipper and finding the command,
 
     ls /dev/serial/by-id/*
 
-No longer reports correctly. I found errors for enumerating that USB device in my dmesg.
+no longer reports correctly. I found errors for enumerating that USB device in my dmesg.
 
 I was able to fix this by flashing a Raspberry Pi 3 with Raspberry PI OS Buster, I used this image:<br>
 https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2020-08-24/<br>
-I then installed kiauh (to then install klipper), and this missing dependency libwxgtk3.0-dev .<br>
+I then installed *kiauh* (to then install *klipper*), and this missing dependency *libwxgtk3.0-dev* .<br>
 https://github.com/dw-0/kiauh<br>
 Using this installation of Klipper the board flashes correctly. I am then able to connect from the regular controller.<br>
