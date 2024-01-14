@@ -1,13 +1,13 @@
 # Flashing a Troodon v1.0 MCU with Klipper
-https://www.teamfdm.com/forums/topic/1181-klipper-in-a-duet2-wifi/#comment-9166
-https://advanced3dprinting.com/wp-content/uploads/2021/03/Advanced-3D-Printing-Klipper-Kit-Installation-Guide-v0.1.pdf
+https://www.teamfdm.com/forums/topic/1181-klipper-in-a-duet2-wifi/#comment-9166<br>
+https://advanced3dprinting.com/wp-content/uploads/2021/03/Advanced-3D-Printing-Klipper-Kit-Installation-Guide-v0.1.pdf<br>
 
-There are a few articles that describe the "How".
+There are a few articles that describe the "How".<br>
 
-make menuconfig
-Microcontroller: SAM3/SAM4 (Due and Duet)”
-Processor model: “SAM4e8e (Duet Wifi/Eth)”
-Use USB for communication.
+    make menuconfig
+        Microcontroller: SAM3/SAM4 (Due and Duet)”
+        Processor model: “SAM4e8e (Duet Wifi/Eth)”
+        Use USB for communication.
 
 # Troubleshooting
 Many articles describe flashing the board with Klipper and finding the command:
