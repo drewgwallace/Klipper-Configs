@@ -12,6 +12,7 @@ https://github.com/FYSETC/FYSETC-Voron-2
 https://github.com/jontek2/A-better-print_start-macro
 https://github.com/dudeofawesome/klipper-config/tree/master/macros
 https://github.com/Lzhikai/SIBOOR-Voron-0.2/blob/main/printer.cfg
+https://github.com/robthide37/components
 
 ## Future?
 https://github.com/jschuh/klipper-macros.git
