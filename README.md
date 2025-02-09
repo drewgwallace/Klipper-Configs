@@ -8,7 +8,7 @@ This repository is left public for other's reference. I hope it may help some. :
 # A Must have for Core XY
 https://ellis3dp.com/Print-Tuning-Guide/
 
-# A Must have for Canbus
+# A Must have for CANbus
 https://canbus.esoterical.online/
 
 # Notable References
