@@ -8,6 +8,9 @@ This repository is left public for other's reference. I hope it may help some. :
 # A Must have for Core XY
 https://ellis3dp.com/Print-Tuning-Guide/
 
+# A Must have for Canbus
+https://canbus.esoterical.online/
+
 # Notable References
 https://github.com/dz0ny/klipper-prusa-mk3s<br>
 https://github.com/jontek2/A-better-print_start-macro<br>
@@ -17,6 +20,9 @@ https://github.com/robthide37/components<br>
 https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging<br>
 https://github.com/retsamedoc/VoronV2_klipper/blob/main/macros.d/purge.cfg
 https://github.com/Frix-x/klippain-shaketune<br>
+https://github.com/zruncho3d/tri-zero<br>
+https://github.com/zruncho3d/BoxZero<br>
+https://github.com/bigtreetech/EBB<br>
 https://github.com/GiulianoM/PTC_Heater_Mount
 
 ## Future?
