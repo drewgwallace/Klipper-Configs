@@ -23,7 +23,8 @@ https://github.com/Frix-x/klippain-shaketune<br>
 https://github.com/zruncho3d/tri-zero<br>
 https://github.com/zruncho3d/BoxZero<br>
 https://github.com/bigtreetech/EBB<br>
-https://github.com/GiulianoM/PTC_Heater_Mount
+https://github.com/GiulianoM/PTC_Heater_Mount<br>
+https://github.com/kyleisah/EZ-Klipper-Macros/
 
 ## Future?
 https://github.com/julianschill/klipper-led_effect<br>
