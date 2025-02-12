@@ -31,6 +31,5 @@ https://github.com/zruncho3d/BoxZero<br>
 https://github.com/zruncho3d/tri-zero<br>
 
 ## Future?
-https://github.com/julianschill/klipper-led_effect<br>
-https://github.com/EtteGit/EnragedRabbitProject/tree/main/Carrot_Feeder<br>
+https://github.com/Enraged-Rabbit-Community/ERCF_v2<br>
 https://github.com/andrewmcgr/klipper_tmc_autotune<br>
