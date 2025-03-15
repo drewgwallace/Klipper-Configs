@@ -12,6 +12,7 @@ https://ellis3dp.com/Print-Tuning-Guide/
 https://canbus.esoterical.online/
 
 # Notable References
+https://docs.kalico.gg/index.html<br>
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder<br>
 https://github.com/Arksine/katapult<br>
 https://github.com/FYSETC/FYSETC-Voron-2<br>
@@ -31,5 +32,4 @@ https://github.com/zruncho3d/BoxZero<br>
 https://github.com/zruncho3d/tri-zero<br>
 
 ## Future?
-https://github.com/Enraged-Rabbit-Community/ERCF_v2<br>
 https://github.com/andrewmcgr/klipper_tmc_autotune<br>
